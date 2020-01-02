@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerCoffee</string>
+    <string name="logo">logo</string>
+    <string name="coffeephoto">photo</string>
+    <string name="text">Выбери, чтобы поделиться!</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
